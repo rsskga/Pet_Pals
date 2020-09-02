@@ -65,7 +65,7 @@ parso==0.5.1
 patsy==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
-pipenv==2018.11.27.dev0
+# pipenv==2018.11.27.dev0
 plotly==4.9.0
 plotly-utils==0.0.3
 prometheus-client==0.7.1
